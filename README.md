@@ -50,7 +50,7 @@ Developed automated sperm quality assessment system using **YOLOv8** and **ByteT
 - ⚡ Reduced analysis time from **20 min to 3 min**  
 - 🛠️ Tech: Python, YOLOv8, PyTorch, OpenCV, Roboflow
 
-### 🫁 [Lung Disease Classification](https://github.com/puneethgowdays/lung-disease-classification)
+### 🫁 [Lung Disease Classification](https://github.com/Puneethgowdays/LUNG-DISEASE-CLASSIFICATION-IN-X-RAY-IMAGES-USING-MACHINE-LEARNING-ALGORITHM)
 Deep learning model for lung disease detection from chest X-rays using **ResNet-50**  
 - 🎯 **90%+ accuracy** in disease classification  
 - 🧠 Transfer learning with CNN  
