@@ -44,7 +44,7 @@
 
 ## 🚀 Featured Projects
 
-### 🩺 [AI-Driven Sperm Quality Assessment](https://github.com/puneethgowdays/sperm-analysis)
+### 🩺 [AI-Driven Sperm Quality Assessment](https://github.com/Puneethgowdays/sperm-motility-analysis)
 Developed automated sperm quality assessment system using **YOLOv8** and **ByteTrack**  
 - 🎯 Achieved **90% classification accuracy** and **72% mAP50**  
 - ⚡ Reduced analysis time from **20 min to 3 min**  
