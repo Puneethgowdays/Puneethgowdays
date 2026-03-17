@@ -56,7 +56,7 @@ Deep learning model for lung disease detection from chest X-rays using **ResNet-
 - 🧠 Transfer learning with CNN  
 - 🛠️ Tech: Python, TensorFlow, ResNet-50, NumPy
 
-### ❤️ [Health Monitoring System](https://github.com/puneethgowdays/health-monitoring)
+### ❤️ [Health Monitoring System](https://github.com/Puneethgowdays/Health-Monitoring)
 ML-based web application for patient vitals monitoring and health risk prediction  
 - 🎯 Real-time health parameter tracking  
 - 📊 Predictive models using **Logistic Regression** & **Random Forest**  
